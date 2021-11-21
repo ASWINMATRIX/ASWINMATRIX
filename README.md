@@ -8,7 +8,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="Eva.png" alt="JPG" width="250" height="200"/>
+<img src="Eva.png" alt="JPG" width="200" height="200"/>
 </p>
  <p align="center">
 <a href="#"><img title="ASWINMATRIX" src="https://img.shields.io/badge/ASWINMATRIX-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
