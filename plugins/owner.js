@@ -18,7 +18,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'PrinceRudh Bot created by *Prince Rudh*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*EvaMwol* Bot created by *ASWIN KKD*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
@@ -36,7 +36,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'PrinceRudh Bot created by *Prince Rudh*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*EVA MWOL* Bot created by *ASWIN KKD*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '*HE IS MY BOSS*', MessageType.text);
