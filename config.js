@@ -49,7 +49,7 @@ module.exports = {
     PROMOTEMSG: process.env.PROMOTE_MESSAGE === undefined ? 'default' : process.env.PROMOTE_MESSAGE,
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
-    BOTPLK: process.env.BOT_NAME === undefined ? '𝗣𝗿𝗶𝗻𝗰𝗲𝗥𝘂𝗱𝗵' : process.env.BOT_NAME,
+    BOT: process.env.BOT_NAME === undefined ? 'ꫀꪜꪖ ꪑ᭙ꪮꪶ' : process.env.BOT_NAME,
     LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.postimg.cc/L4Ctzhvh/Prince-Rudh.jpg' : process.env.ALL_IMG,
     SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://instagram.com/princerudh' : process.env.SOCIAL_MEDIA,
     JID: process.env.VERIFIED === undefined ? '0@s.whatsapp.net' : process.env.VERIFIED,
