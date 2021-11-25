@@ -119,7 +119,7 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏༄PʀɪɴᴄEʳᶹᵈʰ࿐⤎╾━━━•"
+            "value": "•━━━━╼⤏༄ꫀꪜꪖᵐʷᵒˡ࿐⤎╾━━━•"
         },
         "WORK_TYPE": {
             "description": "PrinceRudh Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
@@ -188,6 +188,11 @@
             "description": "Pass This Step! - Bu Bölümü Geçin!",
             "required": false,
             "value": "true"
+        },
+	"WELCOME": {
+            "description": "You can select welcome as gif/pp",
+            "required": false,
+            "value": "pp"
         }
     },
     "addons": [{
