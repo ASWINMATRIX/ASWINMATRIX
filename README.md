@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=G90000&lines=Welcome+to+EvaMwol+WA+Bot+repo;Created+by+ASWIN;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=D90000&lines=Welcome+to+EvaMwol+WA+Bot+repo;Created+by+ASWIN;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
