@@ -11,6 +11,7 @@ const {MessageType, Mimetype } = require('@adiwajshing/baileys');
 const FilterDb = require('./sql/filters');
 const Config = require('../config')
 const jid = Config.DISBGM != false ? Config.DISBGM.split(',') : [];
+const afn = Config.PLKS !== false ? Config.PLKS.split(',') : []
 const Language = require('../language');
 const Lang = Language.getString('filters');
 
@@ -50,6 +51,7 @@ Asena.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, don
         await message.client.sendMessage(message.jid,Lang.DELETED, MessageType.text)
     }
 }));
+    
 if (Config.GEAR == 'one') {
     
 Asena.addCommand({on: 'text', fromMe: false }, (async (message, match) => {
