@@ -2,7 +2,7 @@
 
 <div align="center">
 
-    <img src="https://raw.githubusercontent.com/Chunkindepadayali/LIZA-MWOL/master/Its-me-liza-mwol.gif" alt="LIZA MWOL" />
+    
 
  </a>
 </p>
