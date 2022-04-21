@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ASWINMATRIX/ASWINMATRIX/master/Its-me-eva-mowl bot.gif" alt="LISA MWOL  " />
+    <img src="https://raw.githubusercontent.com/Chunkindepadayali/LIZA-MWOL/master/Its-me-eva-mwol.gif" alt="LIZA MWOL" />
 
  </a>
 </p>
